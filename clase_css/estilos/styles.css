@@ -1,0 +1,39 @@
+    h1 {
+        color: #EC421E;
+        background-color: blue;
+        margin: 10px;
+        border: 10px red solid;
+        border-radius: 8px;
+        padding: 20px;
+        text-align: justify;        
+    }
+
+    p {
+        /* border-radius: 999px; */
+        /* height: 180px;
+        width: 180px; */
+        background-color: aquamarine;
+        padding: 20px;
+        margin: 20px;   
+        /* box-sizing: border-box; */
+    }
+
+    span {
+        background-color: blueviolet;  
+        color: white;          
+        font-size: 18px;
+        font-weight: bold;     
+    }
+
+    .resaltado {
+        background-color: blueviolet;   
+        font-size: 18px;
+        font-weight: bold;
+        padding: 0 10px;
+    }
+
+    button{        
+        display: inline;     
+        margin: 0 auto;
+    }    
+    
